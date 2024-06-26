@@ -20,7 +20,7 @@ package com.jnngl.vanillaminimaps.command;
 import com.mojang.brigadier.CommandDispatcher;
 import net.minecraft.commands.CommandSourceStack;
 import org.bukkit.Bukkit;
-import org.bukkit.craftbukkit.v1_20_R3.CraftServer;
+import org.bukkit.craftbukkit.v1_21_R0.1-SNAPSHOT.CraftServer;
 
 public class NMSCommandDispatcherAccessor {
 
